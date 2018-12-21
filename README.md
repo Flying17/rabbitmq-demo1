@@ -1,1 +1,2 @@
 # rabbitmq-demo
+  test
